@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@react-icons/all-files': 4.1.0
   '@testing-library/jest-dom': 5.11.9
   '@testing-library/react': 11.2.5
   '@testing-library/user-event': 12.6.2
@@ -23,6 +24,7 @@ specifiers:
   react-scripts: 4.0.3
 
 dependencies:
+  '@react-icons/all-files': 4.1.0_react@17.0.1
   '@testing-library/jest-dom': 5.11.9
   '@testing-library/react': 11.2.5_react-dom@17.0.1+react@17.0.1
   '@testing-library/user-event': 12.6.2
@@ -2948,6 +2950,14 @@ packages:
       webpack: 4.44.2
       webpack-dev-server: 3.11.1_webpack@4.44.2
     dev: true
+
+  /@react-icons/all-files/4.1.0_react@17.0.1:
+    resolution: {integrity: sha512-hxBI2UOuVaI3O/BhQfhtb4kcGn9ft12RWAFVMUeNjqqhLsHvFtzIkFaptBJpFDANTKoDfdVoHTKZDlwKCACbMQ==}
+    peerDependencies:
+      react: '*'
+    dependencies:
+      react: 17.0.1
+    dev: false
 
   /@rollup/plugin-node-resolve/7.1.3_rollup@1.32.1:
     resolution: {integrity: sha512-RxtSL3XmdTAE2byxekYLnx+98kEUOrPHF/KRVjLH+DEIHy6kjIw7YINQzn+NXiH/NTrQLAwYs0GWB+csWygA9Q==}

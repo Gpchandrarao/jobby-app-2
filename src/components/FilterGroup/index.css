@@ -1,0 +1,27 @@
+.filter-container {
+  margin: 10px;
+  color: #fff;
+}
+
+.hr {
+  width: 40%;
+}
+
+.type-of-employment {
+  margin: 15px 0px;
+}
+
+.filter-heading {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 20px 0px;
+}
+
+.filter-ul-container {
+  list-style: none;
+}
+
+.filter-input {
+  margin-right: 15px;
+  margin-bottom: 15px;
+}

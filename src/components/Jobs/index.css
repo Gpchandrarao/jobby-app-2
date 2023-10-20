@@ -1,0 +1,49 @@
+.job-container {
+  background-color: #000;
+  min-height: 100vh;
+}
+
+.job-container-items {
+  display: flex;
+  margin: 10px 30px;
+}
+
+.job-rightSide-items {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: -30%;
+}
+
+.searchBar-container {
+  display: flex;
+  align-items: center;
+  border: 0.5px solid #7e858e;
+  border-radius: 2px;
+  height: 35px;
+  width: 50%;
+}
+
+.search-input {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  border: none;
+  padding: 10px;
+  color: #fff;
+  outline: none;
+}
+
+.search-img {
+  width: 20%;
+  background-color: #272727;
+  color: #fff;
+  border: none;
+  height: 100%;
+  cursor: pointer;
+}
+
+.job-leftSide-items {
+  width: 100%;
+}
